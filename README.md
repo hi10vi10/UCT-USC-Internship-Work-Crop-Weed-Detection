@@ -24,7 +24,7 @@ cd crop-weed-detection
 Download Additional Files:
 Due to size constraints, some files are hosted on Google Drive:
 
-Model Weights (YOLOv5x) : https://drive.google.com/drive/folders/1fb0BziWaCyPvI0_b2PqjPYsfNrkaJzpa?usp=sharing
+Model Weights (YOLOv5x) : https://drive.google.com/drive/folders/1fb0BziWaCyPvI0_b2PqjPYsfNrkaJzpa?usp=sharing<br>
 android app model : https://drive.google.com/drive/folders/1WyMmVxhhNJ2GzHhOb5rv0eUNgMFLZ3MS?usp=sharing
 Download these files and place them in the appropriate directories as indicated.
 
