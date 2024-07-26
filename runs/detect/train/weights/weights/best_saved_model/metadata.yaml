@@ -1,0 +1,15 @@
+description: Ultralytics YOLOv5x6u model trained on /kaggle/working/datasets/internship.v2i.yolov8/data.yaml
+author: Ultralytics
+date: '2024-07-24T19:46:09.999959'
+version: 8.2.64
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 64
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Crop
+  1: Weed
