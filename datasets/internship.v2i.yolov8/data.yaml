@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Crop', 'Weed']
+
+roboflow:
+  workspace: internship-y8ktv
+  project: internship-5dzkv
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/internship-y8ktv/internship-5dzkv/dataset/2
