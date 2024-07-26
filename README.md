@@ -63,7 +63,7 @@ Detection Accuracy: Achieved over 90% accuracy in detecting various crops and we
 ![Screenshot_2024-07-25-18-55-50-082_com surendramaran yolov8tflite](https://github.com/user-attachments/assets/164b6260-e4dc-4fe7-abdf-8b0a82fa5e44)<br>
 <p align="center">[ Android Application ]</p><br>
 
-![Screenshot_2024-07-25-18-58-46-982_com surendramaran yolov8tflite](https://github.com/user-attachments/assets/03eecbea-6ea2-43a8-b7dd-0f0b1ee480cf | {width=40px height=400px})<br>
+![Screenshot_2024-07-25-18-58-46-982_com surendramaran yolov8tflite](https://github.com/user-attachments/assets/03eecbea-6ea2-43a8-b7dd-0f0b1ee480cf | width=40px)<br>
 <p align="center">[ Android Application Test ]</p><br>
 
 
