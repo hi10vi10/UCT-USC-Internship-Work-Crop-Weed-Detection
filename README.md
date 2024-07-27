@@ -48,28 +48,23 @@ Detection Accuracy: Achieved over 90% accuracy in detecting various crops and we
 <p align="center">[ Weed Detection ]</p><br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/469a3353-6f45-4d98-8130-84360f41ec8d" ></p>
-![agri_0_164_jpeg rf 9582ee2bad95cad403da1a75444ca6cc](https://github.com/user-attachments/assets/469a3353-6f45-4d98-8130-84360f41ec8d)<br></p>
+<img src="https://github.com/user-attachments/assets/469a3353-6f45-4d98-8130-84360f41ec8d"></p>
 <p align="center">[ Crop Detection ]</p><br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4d1938337-3cba-4a4a-8ea9-bc06236b62e3" ></p>
-![Result Set](https://github.com/user-attachments/assets/d1938337-3cba-4a4a-8ea9-bc06236b62e3)<br></p>
+<img src="https://github.com/user-attachments/assets/d1938337-3cba-4a4a-8ea9-bc06236b62e3" ></p>
 <p align="center">[ Result Set ]</p><br>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bf6ae5f6-07af-41fc-ad22-d8459841d621" ></p>
-![YOLO Evaluation Metrics](https://github.com/user-attachments/assets/bf6ae5f6-07af-41fc-ad22-d8459841d621 )<br></p>
 <p align="center">[ YOLO Evaluation Metrics ]</p><br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f72fef5c-00fc-4504-8da2-3779003445b2)" ></p>
-![Precision, Recall, and F1 Scores](https://github.com/user-attachments/assets/f72fef5c-00fc-4504-8da2-3779003445b2)<br></p>
+<img src="https://github.com/user-attachments/assets/f72fef5c-00fc-4504-8da2-3779003445b2" ></p>
 <p align="center">[ Precision, Recall, and F1 Scores ]</p><br>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/76294e70-4137-4f9a-8ab5-830bfeb3b0d2" ></p>
-![Testing](https://github.com/user-attachments/assets/76294e70-4137-4f9a-8ab5-830bfeb3b0d2)<br></p>
 <p align="center">[ Testing ]</p><br>
 
 <p align="center">
