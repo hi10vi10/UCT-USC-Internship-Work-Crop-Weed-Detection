@@ -69,11 +69,12 @@ Detection Accuracy: Achieved over 90% accuracy in detecting various crops and we
 <p align="center">[ Android Application Test ]</p><br>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/03eecbea-6ea2-43a8-b7dd-0f0b1ee480cf" alt="Snow" style="width:600">
+    <img src="https://github.com/user-attachments/assets/03eecbea-6ea2-43a8-b7dd-0f0b1ee480cf" alt="Snow" height="600">
   </div>
   <div class="column">
-    <img src="https://github.com/user-attachments/assets/164b6260-e4dc-4fe7-abdf-8b0a82fa5e44" alt="Forest" style="width:600">
+    <img src="https://github.com/user-attachments/assets/164b6260-e4dc-4fe7-abdf-8b0a82fa5e44" alt="Forest" height="600">
   </div>
+  [ Android Application Test ]
 </div>
 
 Contact<br>
